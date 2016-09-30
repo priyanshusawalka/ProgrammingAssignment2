@@ -1,5 +1,3 @@
-## second draft
-
 ## Caching the Inverse of a Matrix:
 ## Matrix inverssion is usually a costly computation and there may be some 
 ## benefit to caching the inverseerse of a matrix rather than compute it repeatedly.
